@@ -1,9 +1,3 @@
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/gabrielmg7/count.svg" />
-</p>
-
-
 ## Hi there, i'm Gabriel! 👋
 
 
@@ -18,16 +12,17 @@
 
 ### 🌱 I’m currently learning...
 
-- Full Stack Development
-- Design Patterns
-- DevOps Culture
-- Agile w/ Kanban & Scrum
+- Full Stack Development;
+- DevOps Culture;
+- Design Patterns;
+- Big Data & RAD w/ Python;
+- Agile w/ Kanban & Scrum;
 
 
 ### 👨🏻‍💻 I’m looking to...
 
-- Evolve professionally with the peoples around me
-- Collaborate on socio-community innovations
+- Evolve professionally with the peoples around me.
+- Collaborate on socio-community innovations.
 - Help anyone with questions =)
 
 ### 💼 I’m currently working with...
