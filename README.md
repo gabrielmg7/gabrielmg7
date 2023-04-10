@@ -1,5 +1,10 @@
 ## Hi there, i'm Gabriel! 👋
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/gabrielmg7/count.svg" />
+</p>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielm-dev/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/gabrielm_dev)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gabrielm_dev/)
