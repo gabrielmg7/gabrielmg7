@@ -12,14 +12,12 @@
 </p>
 
 
-
-
-#### Talking about myself...
+### 💬 Talking about myself...
 
  I have experience with the development of Web Apps with React + Typescript + Material-UI, the creation of paginated RESTFUL APIs (HATEOAS), familiar with SQL Server database and / or PostgreSQL, modeling with Power Designer. I also have practice in creating RPA's with Power Automate and development of automated and interactive screens with Excel + VBA.
 
 
-#### 🔭 I’m currently working on...
+### 🔭 I’m currently working on...
 
 ![React Badge](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Typescript Badge](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -29,17 +27,19 @@
 ![Nodejs Badge](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 - React Apps & WebApps 
-- Spring Boot API's
+- Back End's with Spring Framework
+- Data Modelling with Power Designer
+- RPA's with Power Automate
 
 
-#### 🌱 I’m currently learning...
+### 🌱 I’m currently learning...
 
 - Full Stack Development 
 - Design Patterns
 - DevOps
 
 
-#### 👯 I’m looking to...
+### 👯 I’m looking to...
 
 - Evolve professionally with the peoples around me
 - Collaborate on socio-community innovations
