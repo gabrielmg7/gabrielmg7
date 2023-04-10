@@ -7,24 +7,35 @@
 ## Hi there, i'm Gabriel! 👋
 
 
-### 💬 Talking about myself...
+### 💬 Talking about my stack...
 
- I have experience with the development of Web Apps with React + Typescript + Material-UI, the creation of paginated RESTFUL APIs (HATEOAS), accustomed to practice with SQL Server/PostgreSQL, modeling with Power Designer. I also have practice in creating RPA's with Power Automate and development of automated and interactive screens with Excel + VBA.
+- Experience with the development of Web Apps with React.js + Typescript + Material-UI; 
+- Experience with the development of paginated RESTFUL APIs (modern practices w/ HATEOAS);
+- Accustomed to practice SQL with MS-SQL Server/PostgreSQL;
+- Data modeling with CASE tools like Power Designer;
+- I also have practice in creating RPA's with Power Automate;
+- Development of automated and interactive screens with Excel & VBA.
+
+### 🌱 I’m currently learning...
+
+- Full Stack Development
+- Design Patterns
+- DevOps Culture
+- Agile w/ Kanban & Scrum
 
 
-### 💼 I’m currently working on...
+### 👨🏻‍💻 I’m looking to...
+
+- Evolve professionally with the peoples around me
+- Collaborate on socio-community innovations
+- Help anyone with questions =)
+
+### 💼 I’m currently working with...
 
 ![Nodejs Badge](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Typescript Badge](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=black)
-
-- React Apps & WebApps
-- Back End's w/ Spring Framework
-- Data Modelling w/ CASE Tools like PowerDesigner
-- RPA's w/ Power Automate
-- Automated Screens w/ VBA + Excel
-
 
 ### 🛠 My working tools...
 
@@ -35,21 +46,6 @@
 ![Eclipse Badge](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white)
 ![Automate Badge](https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=Power-Automate&logoColor=white) 
 
-### 🌱 I’m currently learning...
-
-- Full Stack Development 
-- Design Patterns
-- DevOps
-- Big Data w/ Python
-
-
-### 👨🏻‍💻 I’m looking to...
-
-- Evolve professionally with the peoples around me
-- Collaborate on socio-community innovations
-- Help anyone with questions =)
-
----
 
 ### 📱 Contact me!
 
