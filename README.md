@@ -3,12 +3,12 @@
 
 ### 💬 Talking about my stack...
 
-- Experience with the development of Web Apps with React.js + Typescript + Material-UI; 
-- Experience with the development of paginated RESTFUL APIs (modern practices w/ HATEOAS);
+- Practice with the development of Web Apps with React.js + Typescript + Material-UI; 
+- Experience with the development of RESTFUL APIs w/ Spring Boot (modern practices w/ Tests, Pagination, Health Check...);
 - Accustomed to practice SQL with MS-SQL Server/PostgreSQL;
 - Data modeling with CASE tools like Power Designer;
-- I also have practice in creating RPA's with Power Automate;
-- Development of automated and interactive screens with Excel & VBA.
+- Pipeline CI/CD with: Application Lifecycle Management with IBM-RTC; Container Orchestration with OpenShift; Continuous Integration with Jenkins + IBM-RTC; Continuous Deployment & Code Reviews with OpenShift; GitLabs as Repository;
+
 
 ### 🌱 I’m currently learning...
 
@@ -25,6 +25,7 @@
 - Collaborate on socio-community innovations.
 - Help anyone with questions =)
 
+
 ### 💼 I’m currently working with...
 
 ![Nodejs Badge](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -32,14 +33,14 @@
 ![Typescript Badge](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=black)
 
+
 ### 🛠 My working tools...
 
 ![VSCode Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=black)
-![Excel Badge](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
 ![Azure DevOps Badge](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=Azure-DevOps&logoColor=white)
 ![Eclipse Badge](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white)
-![Automate Badge](https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=Power-Automate&logoColor=white) 
+
 
 
 ### 📱 Contact me!
