@@ -2,6 +2,8 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/gabrielmg7/count.svg" />
 </p>
+
+
 ## Hi there, i'm Gabriel! 👋
 
 
