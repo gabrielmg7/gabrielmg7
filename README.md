@@ -3,7 +3,6 @@
   <img src="https://profile-counter.glitch.me/gabrielmg7/count.svg" />
 </p>
 
-
 ## Hi there, i'm Gabriel! 👋
 
 
@@ -18,15 +17,20 @@
 ![React Badge](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Typescript Badge](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=black)
-![Azure DevOps Badge](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=Azure-DevOps&logoColor=white)
 ![SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=black)
-![Automate Badge](https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=Power-Automate&logoColor=white)
 
 - React Apps & WebApps
 - Back End's w/ Spring Framework
 - Data Modelling w/ CASE Tools like PowerDesigner
 - RPA's w/ Power Automate
 - Automated Screens w/ VBA + Excel
+
+### 🛠 My working tools...
+![VSCode Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![Excel Badge](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
+![Azure DevOps Badge](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=Azure-DevOps&logoColor=white)
+![Automate Badge](https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=Power-Automate&logoColor=white) 
 
 
 ### 🌱 I’m currently learning...
