@@ -42,9 +42,17 @@
 
 ---
 
-### Find me!
+### 🎯 Find me!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabrielm-dev/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gabrielm_dev)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gabrielm_dev/)
 [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](reddit.com/gabrielmg_dev)
+
+---
+
+### 🎮 Let's Play?
+[![EA Badge](https://img.shields.io/badge/EA-000000.svg?style=for-the-badge&logo=EA&logoColor=white)]()
+[![Epic Games Badge](https://img.shields.io/badge/Epic%20Games-313131.svg?style=for-the-badge&logo=Epic-Games&logoColor=white)]()
+[![Steam Badge](https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=whitehttps://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white)]()
+[![Battle.net](https://img.shields.io/badge/Battle.net-148EFF.svg?style=for-the-badge&logo=battledotnet&logoColor=white)]()
