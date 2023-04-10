@@ -1,15 +1,10 @@
-## Hi there, i'm Gabriel! 👋
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabrielm-dev/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gabrielm_dev)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gabrielm_dev/)
-[![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](reddit.com/gabrielmg_dev)
-
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/gabrielmg7/count.svg" />
 </p>
+
+
+## Hi there, i'm Gabriel! 👋
 
 
 ### 💬 Talking about myself...
@@ -45,3 +40,11 @@
 - Collaborate on socio-community innovations
 - Help anyone with questions =)
 
+---
+
+### Find me!
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabrielm-dev/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gabrielm_dev)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gabrielm_dev/)
+[![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](reddit.com/gabrielmg_dev)
