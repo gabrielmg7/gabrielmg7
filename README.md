@@ -9,7 +9,7 @@
 
 ### 💬 Talking about myself...
 
- I have experience with the development of Web Apps with React + Typescript + Material-UI, the creation of paginated RESTFUL APIs (HATEOAS), familiar with SQL Server database and / or PostgreSQL, modeling with Power Designer. I also have practice in creating RPA's with Power Automate and development of automated and interactive screens with Excel + VBA.
+ I have experience with the development of Web Apps with React + Typescript + Material-UI, the creation of paginated RESTFUL APIs (HATEOAS), accustomed to practice with SQL Server/PostgreSQL, modeling with Power Designer. I also have practice in creating RPA's with Power Automate and development of automated and interactive screens with Excel + VBA.
 
 
 ### 💼 I’m currently working on...
@@ -22,11 +22,11 @@
 ![SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=black)
 ![Automate Badge](https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=Power-Automate&logoColor=white)
 
-- React Apps & WebApps 
-- Back End's with Spring Framework
-- Data Modelling with Power Designer
-- RPA's with Power Automate
-- Automated Screens with VBA + Excel
+- React Apps & WebApps
+- Back End's w/ Spring Framework
+- Data Modelling w/ CASE Tools like PowerDesigner
+- RPA's w/ Power Automate
+- Automated Screens w/ VBA + Excel
 
 
 ### 🌱 I’m currently learning...
@@ -34,6 +34,7 @@
 - Full Stack Development 
 - Design Patterns
 - DevOps
+- Big Data w/ Python
 
 
 ### 👨🏻‍💻 I’m looking to...
