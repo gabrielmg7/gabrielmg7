@@ -5,14 +5,14 @@
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Talking about my stack...</b>
 
 
-- Practice with the development of Web Apps with React.js + Typescript + Material-UI; 
-- Experience with the development of RESTFUL APIs w/ Spring Boot (modern practices w/ Tests, Pagination, Health Check...);
-- Accustomed to practice SQL with MS-SQL Server/PostgreSQL;
-- Data modeling with CASE tools like Power Designer;
-- Pipeline CI/CD with: Application Lifecycle Management with IBM-RTC; Container Orchestration with OpenShift; Continuous Integration with Jenkins + IBM-RTC; Continuous Deployment & Code Reviews with OpenShift; GitLabs as Repository;
+- Practice with the development of Web Apps w/ React.js + Typescript + Material-UI; 
+- Experience w/ the development of RESTFUL APIs w/ Spring Boot (modern practices w/ Tests, Pagination, Health Check...);
+- Accustomed to practice SQL w/ MS-SQL Server/PostgreSQL;
+- Data modeling w/ CASE tools like Power Designer;
+- Pipeline CI/CD w/: Application Lifecycle Management w/ IBM-RTC; Container Orchestration w/ OpenShift; Continuous Integration w/ Jenkins + IBM-RTC; Continuous Deployment & Code Reviews w/ OpenShift; GitLabs as Repository;
 
 
-### <picture><img src = "https://github.com/gabrielmg7/gabrielmg7/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> I’m currently learning...
+### <picture><img src = "https://github.com/gabrielmg7/gabrielmg7/assets/mdImages/about_me.gif" width = 50px></picture> I’m currently learning...
 
 - Full Stack Development;
 - DevOps Culture;
