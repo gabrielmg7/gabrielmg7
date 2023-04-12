@@ -6,7 +6,8 @@
 <h1 align="center"><b>Hi there, i'm Gabriel! 👋</b></h1>
 
 
-### 💬 Talking about my stack...
+### ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Talking about my stack...</b>
+
 
 - Practice with the development of Web Apps with React.js + Typescript + Material-UI; 
 - Experience with the development of RESTFUL APIs w/ Spring Boot (modern practices w/ Tests, Pagination, Health Check...);
