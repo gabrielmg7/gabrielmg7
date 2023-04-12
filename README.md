@@ -12,7 +12,10 @@
 - Pipeline CI/CD w/: Application Lifecycle Management w/ IBM-RTC; Container Orchestration w/ OpenShift; Continuous Integration w/ Jenkins + IBM-RTC; Continuous Deployment & Code Reviews w/ OpenShift; GitLabs as Repository;
 
 
-### <picture><img src = "https://github.com/gabrielmg7/gabrielmg7/assets/mdImages/about_me.gif" width = 50px></picture> I’m currently learning...
+
+### <picture><img src = "./assets/mdImages/about_me.gif" width = 40px></picture> I’m currently learning...
+
+
 
 - Full Stack Development;
 - DevOps Culture;
