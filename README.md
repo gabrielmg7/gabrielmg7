@@ -86,7 +86,7 @@
 
 </a>
 
-/gabrielmg7/<picture>
+<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmg7&layout=compact"
   media="(prefers-color-scheme: dark)"
