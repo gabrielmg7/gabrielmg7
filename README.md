@@ -69,9 +69,9 @@
 [![Steam Badge](https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=whitehttps://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white)]()
 [![Battle.net](https://img.shields.io/badge/Battle.net-148EFF.svg?style=for-the-badge&logo=battledotnet&logoColor=white)]()
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
+<a>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=gabrielmg7&show_icons=true&theme=dark"
@@ -79,12 +79,13 @@
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=gabrielmg7&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme: light)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=gabrielmg7&show_icons=true" />
 </picture>
+</a>
 
-
+<a>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmg7&layout=compact"
@@ -92,7 +93,8 @@
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmg7&layout=compact"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme: light)"
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmg7&layout=compact" />
 </picture>
+</a>
