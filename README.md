@@ -1,7 +1,3 @@
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/gabrielmg7/count.svg" />
-</p>
 
 <h1 align="center"><b>Hi there, i'm Gabriel! 👋</b></h1>
 
@@ -16,7 +12,7 @@
 - Pipeline CI/CD with: Application Lifecycle Management with IBM-RTC; Container Orchestration with OpenShift; Continuous Integration with Jenkins + IBM-RTC; Continuous Deployment & Code Reviews with OpenShift; GitLabs as Repository;
 
 
-### 🌱 I’m currently learning...
+### <picture><img src = "https://github.com/gabrielmg7/gabrielmg7/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> I’m currently learning...
 
 - Full Stack Development;
 - DevOps Culture;
@@ -33,7 +29,6 @@
 
 
 ### 💼 I’m currently working with...
-
 ![Nodejs Badge](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Typescript Badge](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -41,11 +36,11 @@
 
 
 ### 🛠 My working tools...
-
 ![VSCode Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=black)
 ![Azure DevOps Badge](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=Azure-DevOps&logoColor=white)
 ![Eclipse Badge](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white)
+![WT Badge](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=white)
 
 
 
