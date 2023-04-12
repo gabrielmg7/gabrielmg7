@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/gabrielmg7/count.svg" />
 </p>
 
-## Hi there, i'm Gabriel! 👋
+<h1 align="center"><b>Hi there, i'm Gabriel! 👋</b></h1
 
 
 ### 💬 Talking about my stack...
