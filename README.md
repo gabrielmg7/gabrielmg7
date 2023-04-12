@@ -13,25 +13,17 @@
 - Pipeline CI/CD w/: Application Lifecycle Management w/ IBM-RTC; Container Orchestration w/ OpenShift; Continuous Integration w/ Jenkins + IBM-RTC; Continuous Deployment & Code Reviews w/ OpenShift; GitLabs as Repository;
 
 
-<picture><img align="right" src="./assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture><img align="right" src="./assets/mdImages/Right_Side.gif" width = 300px></picture>
 
 
-### <picture><img src = "./assets/mdImages/about_me.gif" width = 40px></picture> I’m currently learning...
+### <picture><img src = "./assets/mdImages/about_me.gif" width = 30px></picture> I’m currently learning...
 
 
 - Full Stack Development;
 - DevOps Culture;
 - Design Patterns;
-- Big Data & RAD w/ Python;
+- Big Data & RAD;
 - Agile w/ Kanban & Scrum;
-
-
-
-### 👨🏻‍💻 I’m looking to...
-
-- Evolve professionally with the peoples around me.
-- Collaborate on socio-community innovations.
-- Help anyone with questions =)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -71,30 +63,4 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=gabrielmg7&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=gabrielmg7&show_icons=true"
-  media="(prefers-color-scheme: light)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielmg7&show_icons=true" />
-</picture>
-</a>
-
-<a>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmg7&layout=compact"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmg7&layout=compact"
-  media="(prefers-color-scheme: light)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmg7&layout=compact" />
-</picture>
-</a>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
