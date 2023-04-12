@@ -13,7 +13,7 @@
 - Pipeline CI/CD w/: Application Lifecycle Management w/ IBM-RTC; Container Orchestration w/ OpenShift; Continuous Integration w/ Jenkins + IBM-RTC; Continuous Deployment & Code Reviews w/ OpenShift; GitLabs as Repository;
 
 
-<picture><img align="right" src="./assets/mdImages/Right_Side.gif" width = 300px></picture>
+<picture><img align="right" src="./assets/mdImages/Right_Side.gif" width = 200px></picture>
 
 
 ### <picture><img src = "./assets/mdImages/about_me.gif" width = 30px></picture> I’m currently learning...
