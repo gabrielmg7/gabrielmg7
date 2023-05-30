@@ -6,11 +6,17 @@
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Talking about my stack...</b>
 
 
-- Practice with the development of Web Apps w/ React.js + Typescript + Material-UI; 
-- Experience w/ the development of RESTFUL APIs w/ Spring Boot (modern practices w/ Tests, Pagination, Health Check...);
-- Accustomed to practice SQL w/ MS-SQL Server/PostgreSQL;
-- Data modeling w/ CASE tools like Power Designer;
-- Pipeline CI/CD w/: Application Lifecycle Management w/ IBM-RTC; Container Orchestration w/ OpenShift; Continuous Integration w/ Jenkins + IBM-RTC; Continuous Deployment & Code Reviews w/ OpenShift; GitLabs as Repository;
+- Practice with the development of Web Apps w/ React.js + Typescript; 
+- - Practice with the development of Apps w/ React Native + Typescript; 
+- Experience w/ the development of RESTFUL APIs w/ Java & Spring Boot (modern practices w/ Tests, Pagination, Health Check...);
+- Accustomed to practice SQL w/ MS-SQL Server / PostgreSQL;
+- Data modeling w/ CASE tools like Power Designer and others;
+- Pipeline CI/CD stack: 
+  - Application Lifecycle Management w/ IBM-RTC; 
+  - Container Orchestration w/ OpenShift; 
+  - Continuous Integration w/ Jenkins + IBM-RTC; 
+  - Continuous Deployment & Code Reviews w/ OpenShift; 
+  - GitLab / GitHub as Repository;
 
 
 <picture><img align="right" src="./assets/mdImages/Right_Side.gif" width = 200px></picture>
