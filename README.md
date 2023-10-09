@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi there, i'm Gabriel! 👋</b></h1>
 
-### <img src="./assets/mdImages/code.gif" width ="25"> Talking about my stack...
+### <picture><img src="./assets/mdImages/code.gif" width ="25"></picture> Talking about my stack...
 
 - Experience with the development of WebApps w/ React.js + Typescript;
 - Practice with the development of Apps w/ React Native + Typescript;
@@ -26,7 +26,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### <picture><img src = "./assets/mdImages/yo.gif" width = 30px></picture> My Tech Stack
+### <picture><img src = "./assets/mdImages/pc-burning-pixel.gif" width = 30px></picture> My Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=black)
@@ -35,7 +35,7 @@
 ![Nodejs](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 
-### <picture><img src = "./assets/mdImages/affinity.gif" width = 30px></picture> Affinity with...
+### <picture><img src = "./assets/mdImages/affinity.gif" width = 35px></picture> Affinity with...
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
