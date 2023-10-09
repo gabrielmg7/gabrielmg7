@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi there, i'm Gabriel! 👋</b></h1>
 
-### <img src="./assets/mdImages/code.gif" width ="25"><b> Talking about my stack...</b>
+### <img src="./assets/mdImages/code.gif" width ="25"> Talking about my stack...
 
 - Experience with the development of WebApps w/ React.js + Typescript;
 - Practice with the development of Apps w/ React Native + Typescript;
@@ -46,7 +46,7 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### <picture><img src = "./assets/mdImages/yay.gif" width = 30px></picture> My working tools...
+### <picture><img src = "./assets/mdImages/keyboard.gif" width = 30px></picture> My working tools...
 
 ![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
@@ -54,16 +54,14 @@
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=Azure-DevOps&logoColor=white)
 ![WT Badge](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=white)
 
-<picture><img align="right" src="" width = 200px></picture>
-
-### <picture><img src = "./assets/mdImages/phone1.gif" width = 30px></picture> Contact me!
+### <picture><img src = "./assets/mdImages/phone.gif" width = 30px></picture> Contact me!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabrielm-dev/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gabrielm_dev)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gabrielm_dev/)
 [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](reddit.com/gabrielmg_dev)
 
-### <picture><img src = "./assets/mdImages/whatever.gif" width = 30px></picture> Let's Play?
+### <picture><img src = "./assets/mdImages/joystick3.gif" width = 30px></picture> Let's Play?
 
 [![EA Badge](https://img.shields.io/badge/EA-000000.svg?style=for-the-badge&logo=EA&logoColor=white)]()
 [![Epic Games Badge](https://img.shields.io/badge/Epic%20Games-313131.svg?style=for-the-badge&logo=Epic-Games&logoColor=white)]()
