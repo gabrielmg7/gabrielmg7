@@ -26,7 +26,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### <picture><img src = "./assets/mdImages/pc-burning-pixel.gif" width = 30px></picture> My Tech Stack
+### <picture><img src = "./assets/mdImages/pc-burning-pixel.gif" width = 35px></picture> My Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=black)
@@ -46,7 +46,7 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### <picture><img src = "./assets/mdImages/keyboard.gif" width = 30px></picture> My working tools...
+### <picture><img src = "./assets/mdImages/keyboard.gif" width = 35px></picture> My working tools...
 
 ![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
@@ -54,14 +54,14 @@
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=Azure-DevOps&logoColor=white)
 ![WT Badge](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=white)
 
-### <picture><img src = "./assets/mdImages/phone.gif" width = 30px></picture> Contact me!
+### <picture><img src = "./assets/mdImages/phone.gif" width = 35px></picture> Contact me!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabrielm-dev/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gabrielm_dev)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gabrielm_dev/)
 [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](reddit.com/gabrielmg_dev)
 
-### <picture><img src = "./assets/mdImages/joystick3.gif" width = 30px></picture> Let's Play?
+### <picture><img src = "./assets/mdImages/joystick3.gif" width = 35px></picture> Let's Play?
 
 [![EA Badge](https://img.shields.io/badge/EA-000000.svg?style=for-the-badge&logo=EA&logoColor=white)]()
 [![Epic Games Badge](https://img.shields.io/badge/Epic%20Games-313131.svg?style=for-the-badge&logo=Epic-Games&logoColor=white)]()
