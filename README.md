@@ -8,9 +8,9 @@
 - Accustomed to practice SQL w/ MS-SQL Server / IBM-DB2;
 - Data modeling w/ CASE tools like Power Designer and others;
 - Pipeline CI/CD stack:
-  - Application Lifecycle Management w/ IBM-RTC;
+  - Application Lifecycle Management;
   - Container Orchestration w/ OpenShift;
-  - Continuous Integration w/ Jenkins + IBM-RTC;
+  - Continuous Integration w/ Jenkins;
   - Continuous Deployment & Code Reviews w/ OpenShift;
   - GitLab / GitHub as Repository;
 
