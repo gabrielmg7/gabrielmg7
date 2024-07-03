@@ -4,7 +4,7 @@
 
 - Experience with the development of WebApps w/ React.js + Typescript;
 - Practice with the development of Apps w/ React Native + Typescript;
-- - Practice with the development of Apps w/ FlutterFlow;
+- Practice with the development of Apps w/ FlutterFlow;
 - Experience w/ the development of RESTFUL APIs w/ Java & Spring Boot (modern practices w/ Tests, Pagination, Health Check...);
 - Accustomed to practice SQL w/ MS-SQL Server / IBM-DB2 / PostgreSQL;
 - Data modeling w/ CASE tools like Power Designer and others;
