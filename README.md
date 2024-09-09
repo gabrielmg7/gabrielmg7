@@ -6,14 +6,11 @@
 - Practice with the development of Apps w/ React Native + Typescript;
 - Practice with the development of Apps w/ FlutterFlow;
 - Experience w/ the development of RESTFUL APIs w/ Java & Spring Boot (modern practices w/ Tests, Pagination, Health Check...);
-- Accustomed to practice SQL w/ MS-SQL Server / IBM-DB2 / PostgreSQL;
+- Experience w/ the development of RESTFUL APIs w/ Node.js / Typescript / Express with MVC model;
+- SQL w/ MS-SQL Server / IBM-DB2 / PostgreSQL / Supabase;
+- No-SQL with Firebase;
 - Data modeling w/ CASE tools like Power Designer and others;
-- Pipeline CI/CD stack:
-  - Application Lifecycle Management;
-  - Container Orchestration w/ OpenShift;
-  - Continuous Integration w/ Jenkins;
-  - Continuous Deployment & Code Reviews w/ OpenShift;
-  - GitLab / GitHub as Repository;
+- Pipeline CI/CD flow with Netlify, Github Actions and others;
 
 <picture><img align="right" src="./assets/mdImages/Right_Side.gif" width = 200px></picture>
 
