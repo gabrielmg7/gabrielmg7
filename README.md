@@ -10,7 +10,7 @@
 - SQL w/ MS-SQL Server / IBM-DB2 / PostgreSQL / Supabase;
 - No-SQL with Firebase;
 - Data modeling w/ CASE tools like Power Designer and others;
-- Pipeline CI/CD flow with Netlify, Github Actions and others;
+- Pipeline CI/CD flow with Netlify, Github, Gitlab and others;
 
 <picture><img align="right" src="./assets/mdImages/Right_Side.gif" width = 200px></picture>
 
