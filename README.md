@@ -3,11 +3,11 @@
 ### <picture><img src="./assets/mdImages/code.gif" width ="25"></picture> Talking about my stack...
 
 - Experience with the development of WebApps w/ React.js + Typescript;
-- Practice with the development of Apps w/ React Native + Typescript;
-- Practice with the development of Apps w/ FlutterFlow;
+- Practice with the development of LowCode Apps w/ FlutterFlow;
 - Experience w/ the development of RESTFUL APIs w/ Java & Spring Boot (modern practices w/ Tests, Pagination, Health Check...);
-- Experience w/ the development of RESTFUL APIs w/ Node.js / Typescript / Express with MVC model;
-- SQL w/ MS-SQL Server / IBM-DB2 / PostgreSQL / Supabase;
+- Experience w/ the development of RESTFUL APIs (Servless containers & Edge Functions) w/ Node.js / Typescript / Express;
+  - Servless Back End & Netlify Edge Functions
+- SQL w/ MS-SQL Server / PostgreSQL / Supabase;
 - No-SQL with Firebase;
 - Data modeling w/ CASE tools like Power Designer and others;
 - Pipeline CI/CD flow with Netlify, Github, Gitlab and others;
