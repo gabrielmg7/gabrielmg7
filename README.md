@@ -46,10 +46,8 @@
 
 ### <picture><img src = "./assets/mdImages/keyboard.gif" width = 35px></picture> My working tools...
 
-![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=black)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=Azure-DevOps&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-282828?style=flat&logo=supabase&logoColor=3FCF8E)
 ![WT Badge](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=white)
 
 ### <picture><img src = "./assets/mdImages/phone.gif" width = 35px></picture> Contact me!
