@@ -2,6 +2,8 @@
 
 ### <picture><img src="./assets/mdImages/code.gif" width ="25"></picture> Talking about my stack...
 
+I am currently maintaining 3 clients with the company, all involving the stack below:
+
 - Experience with the development of WebApps w/ React.js + Typescript;
 - Practice with the development of LowCode Apps w/ FlutterFlow;
 - Experience w/ the development of RESTFUL APIs w/ Java & Spring Boot (modern practices w/ Tests, Pagination, Health Check...);
