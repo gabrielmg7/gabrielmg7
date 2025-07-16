@@ -24,7 +24,7 @@ I am currently maintaining 4 clients with the company, all involving the stack b
 - Restful API's;
 - Servless API's;
 - Edge Functions; 
-- Modern development practices;
+- Multi-Tenant Systems;
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
