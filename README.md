@@ -7,12 +7,12 @@ I am currently maintaining 5 clients with the company, all involving the stack b
 - Experience with the development of WebApps w/ React.js + Typescript;
 - Practice with the development of LowCode Apps w/ FlutterFlow;
 - Experience w/ the development of RESTFUL APIs w/ Java & Spring Boot (modern practices w/ Tests, Pagination, Health Check...);
-- Experience w/ the development of RESTFUL APIs (Servless containers & Edge Functions) w/ Node.js / Typescript / Express;
-  - Servless Back End & Netlify Edge Functions
+- Experience w/ the development of RESTFUL APIs (Servless containers & Edge Functions) w/ Node.js / Typescript / Express.js;
+  - Servless Back End / Netlify Edge Functions / Supabase Edge Functions;
 - SQL w/ MS-SQL Server / PostgreSQL / Supabase;
 - No-SQL with Firebase;
 - Data modeling w/ CASE tools like Power Designer and others;
-- Pipeline CI/CD flow with Netlify & Github / Gitlab & Jenkins / others;
+- Pipeline CI/CD flow with Netlify / Vercel / Gitlab & Jenkins / others;
 
 <picture><img align="right" src="./assets/mdImages/Right_Side.gif" width = 200px></picture>
 
