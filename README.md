@@ -2,8 +2,6 @@
 
 ### <picture><img src="./assets/mdImages/code.gif" width ="25"></picture> Talking about my stack...
 
-Hello! 👋
-
 I'm a software developer with experience in developing web/mobile applications using React.js, Serverless Containers, and REST/RESTful APIs with Java/Typescript. I also have professional experience in DevOps practices, including CI/CD pipelines, code reviews, unit testing, and databases such as SQL Server and PostgreSQL.
 
 🎯 I develop and maintain 4 web/mobile solutions for Integrando Soluções clients, such as ERPs and CRMs. The niches involve the education sector, including preparatory courses, schools, cafeterias, and universities.
