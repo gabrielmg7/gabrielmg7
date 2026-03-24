@@ -4,10 +4,6 @@
 
 I'm a software developer with experience in developing web/mobile applications using React.js, Serverless Containers, and REST/RESTful APIs with Java/Typescript. I also have professional experience in DevOps practices, including CI/CD pipelines, code reviews, unit testing, and databases such as SQL Server and PostgreSQL.
 
-🎯 I develop and maintain 4 web/mobile solutions for Integrando Soluções clients, such as ERPs and CRMs. The niches involve the education sector, including preparatory courses, schools, cafeterias, and universities.
-
-💪 I built our own Payment Gateway from scratch using Banco do Brasil's BB Pay v2 as the company's partner developer.
-
 I have practical knowledge of Specification-Driven Development and experience with advanced context orchestration mechanisms for AI Agents, allowing me to work anywhere in the stack (Anti-Vibe Coding!). I usually use Github Copilot with Custom Agents, MCPs, skills, etc., to streamline the massive part of development with Context Engineering.
 
 - Experience with the development of WebApps w/ React.js + Typescript;
