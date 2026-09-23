@@ -7,9 +7,8 @@ I'm a software developer with experience in developing web/mobile applications u
 I have practical knowledge of Specification-Driven Development and advanced context orchestration mechanisms for AI Agents, allowing me to work anywhere in the stack (Anti-Vibe Coding!). 
 
 - Experience with the development of WebApps w/ React.js + Typescript;
-- Practice with the development of LowCode Apps w/ FlutterFlow;
 - Experience w/ the development of RESTFUL APIs w/ Java & Spring Boot (modern practices w/ Tests, Pagination, Health Check...);
-- Experience w/ the development of RESTFUL APIs (Serverless containers & Edge Functions) w/ Node.js / Typescript / Express.js;
+- Experience w/ the development of RESTFUL APIs w/ Node.js / Typescript / Express.js;
   - Serverless Back End / Netlify Edge Functions / Supabase Edge Functions / Vercel Edge Functions;
 - SQL w/ MS-SQL Server / PostgreSQL / Supabase;
 - No-SQL with Firebase;
