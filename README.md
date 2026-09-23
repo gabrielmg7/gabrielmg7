@@ -1,125 +1,74 @@
-<div align="center">
+<h1 align="center"><b>Hi there, i'm Gabriel! 👋</b></h1>
 
-# Gabriel Moura
+### <picture><img src="./assets/mdImages/code.gif" width ="25"></picture> Talking about my stack...
 
-**Software Engineer & Systems Architect**  
-*Building resilient distributed systems, high-integrity backends, and deterministic AI agent workflows.*
+I'm a software developer with experience in developing web/mobile applications using React.js, Serverless Containers, and REST/RESTful APIs with Java/Typescript. I also have professional experience in DevOps practices, including CI/CD pipelines, code reviews, unit testing, and databases such as SQL Server and PostgreSQL.
 
-<br/>
+I have practical knowledge of Specification-Driven Development and advanced context orchestration mechanisms for AI Agents, allowing me to work anywhere in the stack (Anti-Vibe Coding!).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielm-dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielmg7)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/gabrielm_dev)
-[![Email](https://img.shields.io/badge/Contact-Direct_Message-107C41?style=flat-square&logo=gmail&logoColor=white)](mailto:gabriel.mg7@gmail.com)
+- Experience with the development of WebApps w/ React.js + Typescript;
+- Experience w/ the development of RESTFUL APIs w/ Java & Spring Boot (modern practices w/ Tests, Pagination, Health Check...);
+- Experience w/ the development of RESTFUL APIs w/ Node.js / Typescript / Express.js;
+  - Serverless Back End / Netlify Edge Functions / Supabase Edge Functions / Vercel Edge Functions;
+- SQL w/ MS-SQL Server / PostgreSQL / Supabase;
+- No-SQL with Firebase;
+- Data modeling w/ CASE tools like Power Designer and others;
+- Pipeline CI/CD flow with Netlify / Vercel / Gitlab & Jenkins / others;
 
-</div>
+<picture><img align="right" src="./assets/mdImages/Right_Side.gif" width = 200px></picture>
 
----
+### <picture><img src = "./assets/mdImages/about_me.gif" width = 30px></picture> I’m currently learning...
 
-### Overview
+- Full Stack Development;
+- DevOps Culture;
+- Design Patterns;
+- Restful API's;
+- Servless API's;
+- Multi-Tenant Systems;
+- RLS Policies;
 
-Software engineer specialized in **full-stack architecture**, **relational data integrity**, and **specification-driven engineering**. I design and ship mission-critical systems across modern web layers and enterprise backends, pairing robust testing regimes with pragmatic delivery.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-A pioneer in **Anti-Vibe Coding**: leveraging rigorous specification files, deterministic context orchestration, and multi-agent systems to produce auditable, production-grade software with zero ambiguity.
+### <picture><img src = "./assets/mdImages/pc-burning-pixel.gif" width = 35px></picture> My Tech Stack
 
----
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=black)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 
-### Core Engineering Domains
+### <picture><img src = "./assets/mdImages/affinity.gif" width = 35px></picture> Affinity with...
 
-```
-┌─────────────────────────────────┐   ┌─────────────────────────────────┐
-│       BACKEND & PLATFORM        │   │        DATA & INTEGRITY         │
-├─────────────────────────────────┤   ├─────────────────────────────────┤
-│ • Java & Spring Boot ecosystem  │   │ • PostgreSQL & MS SQL Server    │
-│ • TypeScript / Node.js services │   │ • Supabase (RLS & Edge Workers) │
-│ • Serverless & Edge Compute     │   │ • Data modeling & schema design │
-│ • RESTful architecture & tests  │   │ • Multi-tenant segregation      │
-└─────────────────────────────────┘   └─────────────────────────────────┘
-┌─────────────────────────────────┐   ┌─────────────────────────────────┐
-│       FRONTEND EXPERIENCE       │   │   AGENT ORCHESTRATION & DEVOPS  │
-├─────────────────────────────────┤   ├─────────────────────────────────┤
-│ • React.js & TypeScript apps    │   │ • Specification-Driven Dev      │
-│ • WCAG AA compliant interfaces  │   │ • Multi-agent context pipelines │
-│ • Component-driven architecture │   │ • CI/CD automation & SonarQube  │
-│ • High-performance web metrics  │   │ • Continuous code quality audit │
-└─────────────────────────────────┘   └─────────────────────────────────┘
-```
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
----
+### <picture><img src = "./assets/mdImages/keyboard.gif" width = 35px></picture> My working tools...
 
-### Tech Stack & Tooling
+![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-282828?style=flat&logo=supabase&logoColor=3FCF8E)
+![WT Badge](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=white)
 
-<table>
-  <tr>
-    <td width="20%"><strong>Languages</strong></td>
-    <td>
-      <code>Java</code> &bull;
-      <code>TypeScript</code> &bull;
-      <code>JavaScript</code> &bull;
-      <code>SQL</code> &bull;
-      <code>HTML5/CSS3</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend & APIs</strong></td>
-    <td>
-      <code>Spring Boot</code> &bull;
-      <code>Node.js</code> &bull;
-      <code>Express</code> &bull;
-      <code>Edge Functions</code> &bull;
-      <code>Hibernate</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <code>React.js</code> &bull;
-      <code>Vite</code> &bull;
-      <code>Tailwind CSS</code> &bull;
-      <code>Radix UI / Headless</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Data & Storage</strong></td>
-    <td>
-      <code>PostgreSQL</code> &bull;
-      <code>MS SQL Server</code> &bull;
-      <code>Supabase</code> &bull;
-      <code>Firebase</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>DevOps & Quality</strong></td>
-    <td>
-      <code>CI/CD Pipelines</code> &bull;
-      <code>SonarQube</code> &bull;
-      <code>Git</code> &bull;
-      <code>Docker</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Workflows & SDD</strong></td>
-    <td>
-      <code>Spec-Driven Development</code> &bull;
-      <code>Context Engineering</code> &bull;
-      <code>Agent Skills Architecture</code>
-    </td>
-  </tr>
-</table>
+### <picture><img src = "./assets/mdImages/phone.gif" width = 35px></picture> Contact me!
 
----
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabrielm-dev/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gabrielm_dev)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gabrielm_dev/)
+[![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](reddit.com/gabrielmg_dev)
 
-### Engineering Principles
+### <picture><img src = "./assets/mdImages/joystick3.gif" width = 35px></picture> Let's Play?
 
-1. **Deterministic Quality over Vibe Coding**  
-   Software should be governed by rigorous specifications, contracts, and regression test suites, not guesswork.
-2. **Defensive Data Architecture**  
-   Multi-tenant security, strict Row-Level Security (RLS), and explicit schemas at the database layer.
-3. **Pragmatic Modernization**  
-   Choosing battle-tested foundational tools paired with bleeding-edge agentic development velocity.
+[![EA Badge](https://img.shields.io/badge/EA-000000.svg?style=for-the-badge&logo=EA&logoColor=white)]()
+[![Epic Games Badge](https://img.shields.io/badge/Epic%20Games-313131.svg?style=for-the-badge&logo=Epic-Games&logoColor=white)]()
+[![Steam Badge](https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=whitehttps://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white)]()
+[![Battle.net](https://img.shields.io/badge/Battle.net-148EFF.svg?style=for-the-badge&logo=battledotnet&logoColor=white)]()
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <sub>Engineered with precision. Available for complex systems design and software engineering challenges.</sub>
-</div>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
