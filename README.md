@@ -2,7 +2,7 @@
 
 ### <picture><img src="./assets/mdImages/code.gif" width ="25"></picture> Talking about my stack...
 
-I'm a software developer with experience in developing web/mobile applications using React.js, Serverless Containers, and REST/RESTful APIs with Java/Typescript. I also have professional experience in DevOps practices, including CI/CD pipelines, code reviews, unit testing, and databases such as SQL Server and PostgreSQL.
+I'm a software developer with experience in developing applications using React.js, Serverless Containers, and Backends with Java/Typescript. I also have professional experience in DevOps practices, including CI/CD pipelines, code reviews, unit testing, and databases such as SQL Server and PostgreSQL.
 
 I have practical knowledge of Specification-Driven Development and advanced context orchestration mechanisms for AI Agents, allowing me to work anywhere in the stack (Anti-Vibe Coding!).
 
